@@ -1,2 +1,2 @@
 # Blogs
-A Collection of My Skills.
+A Collection of My Skills
