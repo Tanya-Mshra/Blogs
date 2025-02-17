@@ -5,3 +5,9 @@ div{
 h1{
     color: rgb(116, 181, 207);
 }
+img{
+    width: 150px;
+    height:330px;
+    padding-left: 0px;
+    padding-right: 100px;
+}
