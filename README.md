@@ -25,9 +25,9 @@ I use a mix of tools and methodologies to structure my blogs and make them more 
 
 ## 💡 Want to Connect?
 I’d love to hear from you! Feel free to reach out via:
-- **Twitter** 🐦: [@YourHandle](https://twitter.com/yourhandle)
+
 - **LinkedIn** 🔗: [YourProfile](https://linkedin.com/in/yourprofile)
-- **Email** 📩: your.email@example.com
+- **Email** 📩: tm991920@gmail.com.com
 
 ## ⭐ Support & Feedback
 If you enjoy my content, consider giving this repo a ⭐! Your support keeps me motivated to create more awesome blogs. 😊💖
