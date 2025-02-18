@@ -26,7 +26,7 @@ I use a mix of tools and methodologies to structure my blogs and make them more 
 ## 💡 Want to Connect?
 I’d love to hear from you! Feel free to reach out via:
 
-- **LinkedIn** 🔗: [YourProfile](https://linkedin.com/in/yourprofile)
+- **LinkedIn** 🔗: [https://www.linkedin.com/in/tanya-mishra-537052327](https://www.linkedin.com/in/tanya-mishra-537052327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email** 📩: tm991920@gmail.com.com
 
 ## ⭐ Support & Feedback
